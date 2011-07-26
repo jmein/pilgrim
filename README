@@ -1,0 +1,7 @@
+This contains various .tex files which will be combined into a pretty form of their content in one of various formats, along with scripts to prettify them.
+
+Basic instructions: 
+	uncompress to a directory
+	run:	pilgrim.sh (Linux, OS X) 
+				pilgrim.bat (Windows)
+	enjoy
